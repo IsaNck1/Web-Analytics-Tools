@@ -14,9 +14,9 @@ https://www.experte.de/homepage/analytics
 Funktionen der Tools  
 https://www.getapp.de/software/90997/google-analytics  
 https://www.getapp.de/software/101789/hotjar  
+https://www.getapp.de/software/2053481/matomo  
 https://www.getapp.de/software/90837/mixpanel  
 https://www.getapp.de/software/90836/kissmetrics  
-https://www.getapp.de/software/2053481/matomo
 
 Nutzerumfrage und Funktionen der Tools  
 https://omr.com/de/reviews/product/google-analytics  
